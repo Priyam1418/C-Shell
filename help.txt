@@ -1,0 +1,50 @@
+-------------///////////////////------------
+
+        Welcome to the world of Comet!
+
+Created By: Priyam Tongia(18110129)
+
+Following are the commands which is modifies in Comet:
+(Note: Try "command --help" to know about specific command)
+
+1.cat:    -concatenate files and print on the standard output
+          -Usage: cat [FILES]...
+
+2.cd:     -change current working directory
+          -Usage: cd [DIR_NAME]
+
+3.chmod:  -change permissions of a file
+          -Usage: chmod MODE [FILE]
+
+4.clear:  -clear the shell
+          -Usage: clear
+
+5.cp:     -copy files and directory, use '-r' option to copy directory
+          -Usage: cp [Source] [Destination]
+                  cp -r [Source_Directory] [Destination_Directory]
+
+6.exit:   -termination of shell
+          -Usage: exit
+
+7.grep:   -print lines matching a given pattern(without inverted commas)
+          -Usage: grep Pattern [FILE...]
+
+8.ls:     -list directory contents
+          -Usage: ls [Directory]...
+
+9.mkdir:  -make directories
+          -Usage: mkdir [Directory]...
+
+10.mv:    -move(rename) files
+          -Usage: mv [Source] [Destination]
+
+11.pwd:   -print name of current working directory
+          -Usage: pwd
+
+12.rm:    -remove files or directories, use '-r' for removing directory recursively
+          -Usage: rm [FILES]...
+                  rm -r [DIRECTORY]...
+
+Note: BuiltIn commands of LINUX shell are also functional.
+
+-------------///////////////////------------
